@@ -20,3 +20,8 @@ Step 2. type before "exit 0"  "sudo python /home/pi/lcdscript.py &"
 save it
 
 and Reboot the Raspberry pi.
+
+
+
+
+https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg
