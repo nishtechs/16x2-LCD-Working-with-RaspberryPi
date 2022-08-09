@@ -10,3 +10,13 @@
 credit Goes to:- pimylifeup.com
 
 https://pimylifeup.com/raspberry-pi-lcd-16x2/
+
+Run .py File on Start Raspberrpi
+
+Step 1. RUN "sudo nano /etc/rc.local" or "sudo nano /home/pi/.bashrc" one of them
+
+Step 2. type before "exit 0"  "sudo python /home/pi/lcdscript.py &"
+
+save it
+
+and Reboot the Raspberry pi.
