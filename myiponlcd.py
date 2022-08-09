@@ -66,9 +66,9 @@ while True:
   
 
   
-    #lcd.message('Techivagant')
-    #time.sleep(2.0)
-    #lcd.clear()
+   #lcd.message('Techivagant')
+   #time.sleep(2.0)
+   #lcd.clear()
  
 
 
